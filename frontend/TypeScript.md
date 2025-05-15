@@ -1,4 +1,4 @@
-# TypeScript 面试准备
+# TypeScript 知识回顾
 
 ## 安装环境
 
